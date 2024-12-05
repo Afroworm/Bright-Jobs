@@ -4,7 +4,7 @@ var unityFramework = (() => {
   if (typeof __filename !== 'undefined') _scriptDir = _scriptDir || __filename;
   return (
 function(unityFramework) {
-  unityFramework = unityFramework || {""};
+  unityFramework = unityFramework || {};
 
 
 
